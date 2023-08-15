@@ -1,0 +1,16 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  background: none;
+  color: gray;
+  cursor: default;
+}
+#footer {
+  background: #020202;
+  outline: #020202;
+  color: #757575;
+  padding: 2;
+}
+#hide {
+  display: none;
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: #151515;
+  color: #dbdbdb;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+h1 {
+  text-shadow: 4px 3px 2px #2f4f4f;
+  padding: 8px;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12pt;
+  color: #c4c4c4;
+  text-align: center;
+}
+header {
+  background: #4e4e4e;
+  color: #3f3f3f;
+  text-align: center;
+}
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+}
